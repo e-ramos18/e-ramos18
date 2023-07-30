@@ -31,7 +31,7 @@
 ![React-Testing](https://img.shields.io/badge/-ReactTesting-000000?style=flat&logo=testing-library)
 ![Microfrontend](https://img.shields.io/badge/-Microfrontend-000000?style=flat&logo=MicroStrategy)
 
-[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-eric-ramos)](https://github.com/dev-eric-ramos/github-readme-stats)
+[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-ramos18)](https://github.com/e-ramos18/github-readme-stats)
 
 
 
